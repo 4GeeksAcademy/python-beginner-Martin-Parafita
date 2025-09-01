@@ -1,6 +1,5 @@
 # ✅ ↓ Set the values for my_var1 and my_var2 here ↓ ✅
-my_var1: str = "Hello"
-my_var2: str = "World"
+
 
 ## Don't change anything below this line
 the_new_string = my_var1 + ' ' + my_var2
